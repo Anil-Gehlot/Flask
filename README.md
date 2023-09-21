@@ -26,9 +26,9 @@ Clone this repository to your local machine to explore the code examples and pro
 
 I have organized the code examples into directories, each demonstrating a specific concept or feature of Flask. You can find the code for each example in its respective directory:
 
-- [Example 1: Hello World](example1_hello_world/)
-- [Example 2: Routing](example2_routing/)
-- [Example 3: Templates](example3_templates/)
+- [Quickstart](#)
+- [Tutorial](#/)
+- [Templates](#)
 
 Feel free to explore these examples to see how Flask works and experiment with the code.
 
