@@ -6,7 +6,7 @@
 # When running from Python code, passing debug=True enables debug mode, which is mostly equivalent.
 # app.run(debug=True)
 
-from flask import Flask
+from flask import Flask,render_template
 
 app = Flask(__name__)
 
