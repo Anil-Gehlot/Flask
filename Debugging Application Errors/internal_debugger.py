@@ -1,5 +1,3 @@
-
-
 # The debugger is enabled by default when the development server is run in debug mode.
 # 	flask --app hello run --debug
 
