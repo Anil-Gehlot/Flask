@@ -1,0 +1,56 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 876-060-503
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 876-060-503
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 10:21:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 10:21:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:logging_file:anil logged in successfully with username : 
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 10:21:12] "POST /login/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 10:21:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 10:21:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 10:21:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 10:21:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 10:21:24] "GET / HTTP/1.1" 200 -
+INFO:logging_file:paruh failed to log in with username : 
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 10:21:29] "[35m[1mPOST /login/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 10:21:35] "[33mGET /login/jdhfiudsfli HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/anil/Desktop/Flask/Logging/logging_file.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 372-924-673
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:29:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:29:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:logging_file:jdbgf failed to log in with username : 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:29:40] "[35m[1mPOST /login/ HTTP/1.1[0m" 500 -
+INFO:logging_file:anil logged in successfully with username : 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:30:03] "POST /login/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:31:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:31:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:31:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:31:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:31:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:31:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 14:31:05] "GET / HTTP/1.1" 200 -
